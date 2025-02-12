@@ -1,4 +1,4 @@
-# Planet Clicker!
+# Planet Clicker
 
 Embark on an exhilarating adventure in **Planet Clicker**, an engaging incremental game where you create and develop your very own virtual planet.
 
@@ -6,7 +6,7 @@ Embark on an exhilarating adventure in **Planet Clicker**, an engaging increment
 
 Your journey begins with simple clicks that generate essential resources like coins, energy, and population.
 
-![Kiwi Clicker](https://game.playclickergames.org/202502112227840.jpeg)
+![Planet Clicker](https://game.playclickergames.org/202502112227840.jpeg)
 
 ## How to Play
 
